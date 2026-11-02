@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979855892779",
+    "restype": "watchface",
+    "name": "Miku · Plush Dream",
+    "description": "以初音未来（Hatsune Miku）为灵感打造的萌系主题表盘，以娃娃为视觉中心，搭配柔软的云朵、蝴蝶结与粉嫩装饰，营造出温暖可爱的视觉氛围。\n表盘采用亮屏与 AOD 双模式设计。亮屏模式展示时间、日期、电量、步数及卡路里等信息；息屏模式则切换为简约线稿风格，由 Miku 环抱时间区域，在保留角色辨识度的同时，让息屏显示更加简洁清晰。\n让 Miku 陪伴你的每一段日常时光。💙",
+    "preview": [
+      "media/宣发图 (1).png",
+      "media/market-preview.png",
+      "media/aod-preview.png"
+    ],
+    "icon": "media/11logo.png",
+    "cover": "media/宣发图 (1).png",
+    "author": [
+      {
+        "name": "ycfeller",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "寻日官网",
+      "url": "https://wear.xunrix.com/",
+      "icon": "google-chrome-logo"
+    }
+  ],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Miku-Plush DreamV1.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Miku-Plush DreamV1.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
